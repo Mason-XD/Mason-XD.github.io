@@ -2,14 +2,14 @@
 
 ### p5.js
 
-#### webgl
+#### `webgl`
 
 - [time](https://mason-xd.github.io/demo_projects/openprocessing/time/)
 - [Quantum Unstable](https://mason-xd.github.io/demo_projects/openprocessing/quantum_unstable)
 
 ### babylon.js
 
-#### webgpu
+#### `webgpu`
 
 - [ball](https://mason-xd.github.io/demo_projects/babylonjs/ball)
 - [animation_blend](https://mason-xd.github.io/demo_projects/babylonjs/animation_blend/)
